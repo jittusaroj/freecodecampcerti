@@ -5,6 +5,7 @@
 	},
 	"author": "Jitendra kumar saroj",
 	"main": "server.js",
+	"description": "Learning project on freeCodeCamp.com",
 	"scripts": {
 		"start": "node server.js"
 	},
