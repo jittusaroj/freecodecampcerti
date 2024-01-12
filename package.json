@@ -3,14 +3,20 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+  "version": "1.0.0",
+  "description": "this application for learning purpose for freeCodeCamp",
 	"author": "Jitendra kumar saroj",
 	"main": "server.js",
-	"description": "Learning project on freeCodeCamp.com",
+	"keywords": [
+		"node",
+		"express"
+	  ],
 	"scripts": {
 		"start": "node server.js"
 	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+	},
+	"license": "MIT"
 }
