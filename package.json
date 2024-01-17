@@ -7,10 +7,7 @@
   "description": "this application for learning purpose for freeCodeCamp",
 	"author": "Jitendra kumar saroj",
 	"main": "server.js",
-	"keywords": [
-		"node",
-		"express"
-	  ],
+	"keywords": ["freecodecamp"],
 	"scripts": {
 		"start": "node server.js"
 	},
