@@ -1,13 +1,16 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"		
+		"cors": "^2.8.5",
+		"express": "^4.14.0"
 	},
-  "version": "1.0.0",
-  "description": "this application for learning purpose for freeCodeCamp",
+	"version": "1.0.0",
+	"description": "this application for learning purpose for freeCodeCamp",
 	"author": "Jitendra kumar saroj",
 	"main": "server.js",
-	"keywords": ["freecodecamp"],
+	"keywords": [
+		"freecodecamp"
+	],
 	"scripts": {
 		"start": "node server.js"
 	},
